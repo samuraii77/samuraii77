@@ -17,6 +17,8 @@ For private audits or related work, reach out on:
 | 2025.01 | Sherlock  	| [Allora](https://audits.sherlock.xyz/contests/728)                					| Cosmos SDK					| 🥈		|
 | 2024.12 | Sherlock  	| [Idle Finances](https://audits.sherlock.xyz/contests/571)                					| Credit vaults					| 🥈		|
 | 2024.12 | Sherlock  	| [Numa](https://audits.sherlock.xyz/contests/554)                					| Synthetics					| #7		|
+| 2024.11 | Code4rena  	| [Concrete](https://code4rena.com./audits/2024-11-concrete)                					| Liquidity manager					| #4		|
+| 2024.11 | Code4rena  	| Audit 459 (Private)               					| Private					| 🥉		|
 | 2024.10 | Sherlock  	| [Avantis](https://audits.sherlock.xyz/contests/485)                					| Perps					| 🥉		|
 | 2024.10 | Sherlock  	| [Predict.fun](https://audits.sherlock.xyz/contests/561)                					| Lending					| 🥈		|
 | 2024.09 | Cantina  	| [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)                					| Actions marketplace						| 🥈		|
