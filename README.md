@@ -7,20 +7,6 @@ For private audits or related work, reach out on:
 - Twitter - [@s4muraii77](https://x.com/s4muraii77)
 - Discord - [@s4muraii77](https://t.me/s4muraii77)
 
-## Team engagements
-
-| Date    | Provider | Project                              | Category                                         	           | Report   	|
-| ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
-| 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork										 | 	|
-| 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2025.01 | Pashov Audit Group | Burve                         | AMM										 | 	|
-| 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
-| 2025.01 | Pashov Audit Group | Cardex                         | Card trading										 | 	|
-| 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 | 	|
-| 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
-| 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2024.10 | Pashov Audit Group | Gummi                 | Lending, Ethereum Credit Guild fork				 |  	|
-| 2024.10 | Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
 
 ## Public Audit Contests
 
@@ -40,3 +26,18 @@ For private audits or related work, reach out on:
 | 2024.05 | Sherlock  	| [Tokensoft](https://audits.sherlock.xyz/contests/285)                					| Protocol bootstrapper 										| 🥇		|
 | 2024.05 | Sherlock  	| [Gamma](https://audits.sherlock.xyz/contests/330)                					| Staking 										| 🥉		|
 | 2024.03 | Code4rena  	| [DittoETH](https://code4rena.com/audits/2024-03-dittoeth)                              	| Stablecoin, Orderbook 			 					| #8		|
+
+## Team engagements
+
+| Date    | Provider | Project                              | Category                                         	           | Report   	|
+| ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork										 | 	|
+| 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
+| 2025.01 | Pashov Audit Group | Burve                         | AMM										 | 	|
+| 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
+| 2025.01 | Pashov Audit Group | Cardex                         | Card trading										 | 	|
+| 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 | 	|
+| 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
+| 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
+| 2024.10 | Pashov Audit Group | Gummi                 | Lending, Ethereum Credit Guild fork				 |  	|
+| 2024.10 | Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
