@@ -12,7 +12,7 @@ For private audits or related work, reach out on:
 
 | Date | Platform | Contest                              		  | Category                          			| Ranking 	|
 | - | - | ----| ------------------------------------ 		  | 	-		|
-| 2025.01 | Sherlock  	| [Peapods](https://audits.sherlock.xyz/contests/749)                					| Yield farming					| 🥈		|
+| 2025.01 | Sherlock  	| [Peapods](https://audits.sherlock.xyz/contests/749)                					| Volatility farming					| 🥈		|
 | 2025.01 | Sherlock  	| [Flat Money](https://audits.sherlock.xyz/contests/620)                					| Perps				| 🥉		|
 | 2025.01 | Sherlock  	| [Allora](https://audits.sherlock.xyz/contests/728)                					| Cosmos SDK					| 🥈		|
 | 2024.12 | Sherlock  	| [Idle Finances](https://audits.sherlock.xyz/contests/571)                					| Credit vaults					| 🥈		|
