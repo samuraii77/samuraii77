@@ -43,3 +43,10 @@ For private audits or related work, reach out on:
 | 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
 | 2024.10 | Pashov Audit Group | Gummi                 | Lending, Ethereum Credit Guild fork				 |  	|
 | 2024.10 | Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
+
+## Bug Bounties
+| Project | Severity   	| Write-up |
+| ------- | -------	 | -------|
+| Private | Critical |   |                    
+| Cosmos SDK | Low |    |                  
+| Aave | Low |    |            
