@@ -1,6 +1,6 @@
 ## About Me
 
-I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 1x🥇, 6x🥈, 4x🥉 in competitions and well over 100 H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock (under the X77 nickname) and have also completed numerous private audits for well-known audit teams in the space.
+I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 1x🥇, 6x🥈, 4x🥉 in competitions and well over 100 H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock (under the X77 nickname) and have also completed numerous private audits for well-known audit teams in the space, such as [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
 
 For private audits or related work, reach out on:
 
