@@ -28,6 +28,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | 	|
 | 2025.04 | Bail Security | H3rmes                         | Yield									 | 	|
 | 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork										 | 	|
 | 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
