@@ -30,7 +30,7 @@ For private audits or related work, reach out on:
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
 | 2025.05 | Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
-| 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | 	|
+| 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | [📑](https://drive.google.com/file/d/15UH3nytMdm_BYSX2XHd77-uZlTXsOLV1/view)	|
 | 2025.04 | Bail Security | H3rmes                         | Lending, Yield									 | 	|
 | 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork										 | 	|
 | 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
