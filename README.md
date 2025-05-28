@@ -25,7 +25,7 @@ For private audits or related work, reach out on:
 | 2024.05 | Sherlock  	| [Tokensoft](https://audits.sherlock.xyz/contests/285)                					| Protocol bootstrapper 										| 🥇		|
 | 2024.05 | Sherlock  	| [Gamma](https://audits.sherlock.xyz/contests/330)                					| Staking 										| 🥉		|
 
-## Team engagements
+## Private engagements
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
