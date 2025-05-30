@@ -36,7 +36,7 @@ For private audits or related work, reach out on:
 | 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
 | 2025.01 | Pashov Audit Group | Burve                         | AMM										 | 	|
 | 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
-| 2025.01 | Pashov Audit Group | Cardex                         | Card trading										 | 	|
+| 2025.01 | Pashov Audit Group | Cardex                         | Bonding curve										 | 	|
 | 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 | 	|
 | 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
 | 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
