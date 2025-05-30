@@ -4,7 +4,7 @@ I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with
 
 For private audits or related work, reach out on:
 
-- Twitter/X - [@s4muraii77](https://x.com/s4muraii77)
+- Twitter / X - [@s4muraii77](https://x.com/s4muraii77)
 - Telegram - [@s4muraii77](https://t.me/s4muraii77)
 
 
