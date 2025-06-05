@@ -36,7 +36,7 @@ For private audits or related work, reach out on:
 | 2025.04 | Bail Security | H3rmes                         | Lending, Yield									 | 	|
 | 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork										 | 	|
 | 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2025.01 | Pashov Audit Group | Burve                         | AMM										 | 	|
+| 2025.01 | Pashov Audit Group | Burve                         | AMM										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)	|
 | 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
 | 2025.01 | Pashov Audit Group | Cardex                         | Bonding curve										 | 	|
 | 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 | 	|
