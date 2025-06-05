@@ -1,6 +1,6 @@
 ## About Me
 
-I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 2x🥇, 6x🥈, 4x🥉 in competitions and well over 100 H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock (under the X77 nickname) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
+I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 3x🥇, 7x🥈, 4x🥉 in competitions and well over 100 H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock (under the X77 nickname) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
 
 For private audits or related work, reach out on:
 
@@ -12,7 +12,9 @@ For private audits or related work, reach out on:
 
 | Date | Platform | Contest                              		  | Category                          			| Ranking 	|
 | - | - | ----| ------------------------------------ 		  | 	-		|
+| 2025.05 | Sherlock  	| [LayerEdge](https://audits.sherlock.xyz/contests/952)                					| Staking										| 🥇		|
 | 2025.04 | Sherlock  	| [ZKP2P](https://audits.sherlock.xyz/contests/805)                					| Crypto on-ramp & off-ramp										| 🥇		|
+| 2025.04 | Cantina  	| [InfiniFi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b)                					| Yield									| 🥈		|
 | 2025.01 | Sherlock  	| [Peapods](https://audits.sherlock.xyz/contests/749)                					| Volatility farming					| 🥈		|
 | 2025.01 | Sherlock  	| [Flat Money](https://audits.sherlock.xyz/contests/620)                					| Perps				| 🥉		|
 | 2025.01 | Sherlock  	| [Allora](https://audits.sherlock.xyz/contests/728)                					| Cosmos SDK					| 🥈		|
