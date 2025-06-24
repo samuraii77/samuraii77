@@ -31,6 +31,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.06 | Bail Security | Football Dot Fun                        |  AMM						 | 	|
 | 2025.06 | Bail Security | Grail                         | Token Sale, Options									 | 	|
 | 2025.05 | Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
 | 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | [📑](https://drive.google.com/file/d/15UH3nytMdm_BYSX2XHd77-uZlTXsOLV1/view)	|
@@ -40,7 +41,7 @@ For private audits or related work, reach out on:
 | 2025.01 | Pashov Audit Group | Burve                         | AMM										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)	|
 | 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
 | 2025.01 | Pashov Audit Group | Cardex                         | Bonding curve										 | 	|
-| 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 | 	|
+| 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 |  [📑](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf) |
 | 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
 | 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
 | 2024.10 | Pashov Audit Group | Gummi                 | Lending, Ethereum Credit Guild fork				 |  	|
