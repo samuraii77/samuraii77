@@ -31,7 +31,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
-| 2025.06 | Sherlock | Football Dot Fun                        |  AMM						 | 	|
+| 2025.06 | Sherlock | Football Dot Fun                        |  Multi-Token AMM Pool						 | 	|
 | 2025.06 | Bail Security | Grail                         | Token Sale, Options									 | 	|
 | 2025.05 | Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
 | 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | [📑](https://drive.google.com/file/d/15UH3nytMdm_BYSX2XHd77-uZlTXsOLV1/view)	|
