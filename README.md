@@ -31,6 +31,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.07 | Bail Security | Paymonade                        |  Swapper logic						 | 	|
 | 2025.06 | Sherlock | Football Dot Fun                        |  Multi-Token AMM Pool						 | 	|
 | 2025.06 | Bail Security | Grail                         | Token Sale, Options									 | 	|
 | 2025.05 | Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
@@ -50,6 +51,7 @@ For private audits or related work, reach out on:
 ## Bug Bounties
 | Project | Severity   	| Write-up |
 | ------- | -------	 | -------|
+| Daimo Pay | High |   |                    
 | Private | Critical |   |                    
 | Cosmos SDK | Low |    |                  
 | Aave | Low |    |            
