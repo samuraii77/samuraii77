@@ -52,6 +52,7 @@ For private audits or related work, reach out on:
 | Project | Severity   	| Write-up |
 | ------- | -------	 | -------|
 | Daimo Pay | High |   |                    
+| Deltaprime | Low |   |                    
 | Private | Critical |   |                    
 | Cosmos SDK | Low |    |                  
 | Aave | Low |    |            
