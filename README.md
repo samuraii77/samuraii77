@@ -31,7 +31,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
-| 2025.07 | Sherlock | Superlend                        |  Liquidity manager, Aave integration						 | 	|
+| 2025.07 | Sherlock | Superlend                        |  Looped vaults, Aave integration						 | 	|
 | 2025.07 | Bail Security | Paymonade                        |  Swapper logic						 | 	|
 | 2025.06 | Sherlock | Football Dot Fun                        |  Multi-Token AMM Pool						 | 	|
 | 2025.06 | Bail Security | Grail                         | Token Sale, Options									 | 	|
