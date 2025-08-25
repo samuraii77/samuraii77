@@ -31,6 +31,7 @@ For private audits or related work, reach out on:
 
 | Date    | Provider | Project                              | Category                                         	           | Report   	|
 | ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| 2025.08 | Sherlock | Allora Fix Review                        | Cosmos SDK						 | 	|
 | 2025.08 | N/A | Bounce                        |  HyperLiquid Perps + Staking/Vesting						 | 	|
 | 2025.08 | Sherlock | Superlend                        |  Manual looping strategy						 | 	|
 | 2025.07 | Sherlock | Superlend                        |  Looped vaults, Aave integration						 | 	|
