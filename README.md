@@ -52,7 +52,7 @@ For private audits or related work, reach out on:
 | 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 |  [📑](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf) |
 | 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
 | 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2024.10 | Pashov Audit Group | Gummi                 | Lending, Ethereum Credit Guild fork				 |  	|
+| 2024.10 | Pashov Audit Group | Gummi                 | Oracleless Lending, Ethereum Credit Guild fork				 |  	|
 | 2024.10 | Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
 
 ## Bug Bounties
