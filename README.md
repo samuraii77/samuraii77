@@ -1,6 +1,6 @@
 ## About Me
 
-I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 3x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock (under the X77 nickname) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
+I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 3x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock under 2 accounts (000000 as solo and X77 as a team) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
 
 For private audits or related work, reach out on:
 
@@ -12,6 +12,7 @@ For private audits or related work, reach out on:
 
 | Date | Platform | Contest                              		  | Category                          			| Ranking 	|
 | - | - | ----| ------------------------------------ 		  | 	-		|
+| 2025.08 | Sherlock  	| [dHedge](https://app.sherlock.xyz/audits/contests/1070)                					| Liquidity manager, DeFi integrations										| 🥇		|
 | 2025.05 | Sherlock  	| [LayerEdge](https://audits.sherlock.xyz/contests/952)                					| Staking										| 🥇		|
 | 2025.04 | Sherlock  	| [ZKP2P](https://audits.sherlock.xyz/contests/805)                					| Crypto on-ramp & off-ramp										| 🥇		|
 | 2025.04 | Cantina  	| [InfiniFi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b)                					| Yield	farming								| 🥈		|
