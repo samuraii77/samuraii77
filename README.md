@@ -10,23 +10,23 @@ For private audits or related work, reach out on:
 
 ## Public Audit Contests
 
-| Date | Platform | Contest                              		  | Category                          			| Ranking 	|
-| - | - | ----| ------------------------------------ 		  | 	-		|
-| 2025.08 | Sherlock  	| [dHedge](https://app.sherlock.xyz/audits/contests/1070)                					| Liquidity manager, DeFi integrations										| 🥇		|
-| 2025.05 | Sherlock  	| [LayerEdge](https://audits.sherlock.xyz/contests/952)                					| Staking										| 🥇		|
-| 2025.04 | Sherlock  	| [ZKP2P](https://audits.sherlock.xyz/contests/805)                					| Crypto on-ramp & off-ramp										| 🥇		|
-| 2025.04 | Cantina  	| [InfiniFi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b)                					| Yield	farming								| 🥈		|
-| 2025.01 | Sherlock  	| [Peapods](https://audits.sherlock.xyz/contests/749)                					| Volatility farming					| 🥈		|
-| 2025.01 | Sherlock  	| [Flat Money](https://audits.sherlock.xyz/contests/620)                					| Perps				| 🥉		|
-| 2025.01 | Sherlock  	| [Allora](https://audits.sherlock.xyz/contests/728)                					| Cosmos SDK					| 🥈		|
-| 2024.12 | Sherlock  	| [Idle Finances](https://audits.sherlock.xyz/contests/571)                					| Credit vaults					| 🥈		|
-| 2024.10 | Code4rena  	| Audit 459 (Private)               					| Private					| 🥉		|
-| 2024.10 | Sherlock  	| [Avantis](https://audits.sherlock.xyz/contests/485)                					| Perps					| 🥉		|
-| 2024.09 | Cantina  	| [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)                					| Actions marketplace						| 🥈		|
-| 2024.07 | Code4rena  	| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)                					| NFT Game							| 🥈		|
-| 2024.06 | Code4rena  	| [Thorchain](https://code4rena.com/audits/2024-06-thorchain)                					| Cross-chain DEX									| 🥈		|
-| 2024.05 | Sherlock  	| [Tokensoft](https://audits.sherlock.xyz/contests/285)                					| Protocol bootstrapper 										| 🥇		|
-| 2024.05 | Sherlock  	| [Gamma](https://audits.sherlock.xyz/contests/330)                					| Staking 										| 🥉		|
+| Platform | Contest                              		  | Category                          			| Ranking 	|
+| - | ----| ------------------------------------ 		  | 	-		|
+| Sherlock  	| [dHedge](https://app.sherlock.xyz/audits/contests/1070)                					| Liquidity manager, DeFi integrations										| 🥇		|
+| Sherlock  	| [LayerEdge](https://audits.sherlock.xyz/contests/952)                					| Staking										| 🥇		|
+| Sherlock  	| [ZKP2P](https://audits.sherlock.xyz/contests/805)                					| Crypto on-ramp & off-ramp										| 🥇		|
+| Sherlock  	| [Tokensoft](https://audits.sherlock.xyz/contests/285)                					| Protocol bootstrapper 										| 🥇		|
+| Cantina  	| [InfiniFi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b)                					| Yield	farming								| 🥈		|
+| Sherlock  	| [Peapods](https://audits.sherlock.xyz/contests/749)                					| Volatility farming					| 🥈		|
+| Sherlock  	| [Allora](https://audits.sherlock.xyz/contests/728)                					| Cosmos SDK					| 🥈		|
+| Sherlock  	| [Idle Finances](https://audits.sherlock.xyz/contests/571)                					| Credit vaults					| 🥈		|
+| Cantina  	| [Royco](https://cantina.xyz/competitions/fadb5a8f-e39c-4a6b-89f6-a03858bb8602)                					| Actions marketplace						| 🥈		|
+| Code4rena  	| [TraitForge](https://code4rena.com/audits/2024-07-traitforge)                					| NFT Game							| 🥈		|
+| Code4rena  	| [Thorchain](https://code4rena.com/audits/2024-06-thorchain)                					| Cross-chain DEX									| 🥈		|
+| Sherlock  	| [Avantis](https://audits.sherlock.xyz/contests/485)                					| Perps					| 🥉		|
+| Sherlock  	| [Flat Money](https://audits.sherlock.xyz/contests/620)                					| Perps				| 🥉		|
+| Code4rena  	| Audit 459 (Private)               					| Private					| 🥉		|
+| Sherlock  	| [Gamma](https://audits.sherlock.xyz/contests/330)                					| Staking 										| 🥉		|
 
 ## Private engagements
 
