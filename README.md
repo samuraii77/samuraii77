@@ -59,8 +59,8 @@ For private audits or related work, reach out on:
 ## Bug Bounties
 | Project | Severity   	| Write-up |
 | ------- | -------	 | -------|
-| Daimo Pay | High |   |                    
-| Deltaprime | Low |   |                    
 | Private | Critical |   |                    
-| Cosmos SDK | Low |    |                  
+| Daimo Pay | High |   |                    
 | Aave | Low |    |            
+| Cosmos SDK | Low |    |                  
+| Deltaprime | Low |   |                    
