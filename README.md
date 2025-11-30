@@ -1,6 +1,6 @@
 ## About Me
 
-I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 4x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock under 2 accounts (000000 as solo and X77 as a team) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
+I am a [security researcher](https://audits.sherlock.xyz/watson/samuraii77) with a proven track record on all major contest platforms, having achieved 4x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock under 2 accounts (000000 as solo and X77 as a team) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Cyfrin](https://x.com/cyfrin), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
 
 For private audits or related work, reach out on:
 
@@ -30,31 +30,34 @@ For private audits or related work, reach out on:
 
 ## Private engagements
 
-| Date    | Provider | Project                              | Category                                         	           | Report   	|
-| ------- | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
-| 2025.08 | Sherlock | Football Dot Fun                        | Multi-Token AMM Pool						 | 	|
-| 2025.08 | Sherlock | Lombard                        | Claim contract, Merkle tree						 | 	|
-| 2025.08 | Sherlock | Allora Fix Review                        | Cosmos SDK						 | 	|
-| 2025.08 | N/A | Bounce                        |  HyperLiquid Perps + Staking/Vesting						 | 	|
-| 2025.08 | Sherlock | Superlend                        |  Manual looping strategy						 | 	|
-| 2025.07 | Sherlock | Superlend                        |  Looped vaults, Aave integration						 | 	|
-| 2025.07 | Bail Security | Hyperdrive                        |  Liquidity manager, HyperCore integration						 | 	|
-| 2025.07 | Bail Security | Paymonade                        |  Swapper logic						 | 	|
-| 2025.06 | Sherlock | Football Dot Fun                        |  Multi-Token AMM Pool						 | 	|
-| 2025.06 | Bail Security | Grail                         | Token Sale, Options									 | 	|
-| 2025.05 | Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
-| 2025.04 | Sherlock | Pareto USP                         | Stablecoin, Yield									 | [📑](https://drive.google.com/file/d/15UH3nytMdm_BYSX2XHd77-uZlTXsOLV1/view)	|
-| 2025.04 | Bail Security | H3rmes                         | Lending, Yield									 | 	|
-| 2025.03 | Bail Security | Parallel                         | Stablecoin, Angle fork, LZ integration										 | [📑](https://github.com/parallel-protocol/parallel-parallelizer/blob/main/docs/audits/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf)	|
-| 2025.02 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2025.01 | Pashov Audit Group | Burve                         | AMM										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)	|
-| 2025.01 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
-| 2025.01 | Pashov Audit Group | Cardex                         | Bonding curve										 | 	|
-| 2024.12 | Pashov Audit Group | Cove                         | Liquidity manager										 |  [📑](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf) |
-| 2024.12 | Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
-| 2024.12 | Pashov Audit Group | Reya                         | Perps										 | 	|
-| 2024.10 | Pashov Audit Group | Gummi                 | Oracleless Lending, Ethereum Credit Guild fork				 |  	|
-| 2024.10 | Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
+| Provider | Project                              | Category                                         	           | Report   	|
+| -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
+| Cyfrin | Under NDA                        | Rollup						 | 	|
+| Sherlock | Delpho                        | Stablecoin, HyperLiquid					 | 	|
+| Sherlock | Usual                        | Stablecoin						 | 	|
+| Sherlock | Football Dot Fun                        | Multi-Token AMM Pool						 | 	|
+| Sherlock | Lombard                        | Claim contract, Merkle tree						 | 	|
+| Sherlock | Allora Fix Review                        | Cosmos SDK						 | 	|
+| N/A | Bounce                        |  HyperLiquid Perps + Staking/Vesting						 | 	|
+| Sherlock | Superlend                        |  Manual looping strategy						 | 	|
+| Sherlock | Superlend                        |  Looped vaults, Aave integration						 | 	|
+| Bail Security | Hyperdrive                        |  Liquidity manager, HyperCore integration						 | 	|
+| Bail Security | Paymonade                        |  Swapper logic						 | 	|
+| Sherlock | Football Dot Fun                        |  Multi-Token AMM Pool						 | 	|
+| Bail Security | Grail                         | Token Sale, Options									 | 	|
+| Sherlock | Embr                         | Bonding Curve, AMM									 | 	|
+| Sherlock | Pareto USP                         | Stablecoin, Yield									 | [📑](https://drive.google.com/file/d/15UH3nytMdm_BYSX2XHd77-uZlTXsOLV1/view)	|
+| Bail Security | H3rmes                         | Lending, Yield									 | 	|
+| Bail Security | Parallel                         | Stablecoin, Angle fork, LZ integration										 | [📑](https://github.com/parallel-protocol/parallel-parallelizer/blob/main/docs/audits/Bailsec%20-%20Parallel%20Protocol%20-%20V3%20Core%20-%20Final%20Report.pdf)	|
+| Pashov Audit Group | Reya                         | Perps										 | 	|
+| Pashov Audit Group | Burve                         | AMM										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Burve-security-review_2025-01-29.pdf)	|
+| Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | 	|
+| Pashov Audit Group | Cardex                         | Bonding curve										 | 	|
+| Pashov Audit Group | Cove                         | Liquidity manager										 |  [📑](https://github.com/pashov/audits/blob/master/team/pdf/Cove-security-review_2024-12-30.pdf) |
+| Pashov Audit Group | Ouroboros                         | Stablecoin, Liquity fork										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/Ouroboros-security-review_2024-12-06.pdf)	|
+| Pashov Audit Group | Reya                         | Perps										 | 	|
+| Pashov Audit Group | Gummi                 | Oracleless Lending, Ethereum Credit Guild fork				 |  	|
+| Pashov Audit Group | apDAO                         | NFT Auctions										 | [📑](https://github.com/pashov/audits/blob/master/team/pdf/apDAO-security-review_2024-10-03.pdf)	|
 
 ## Bug Bounties
 | Project | Severity   	| Write-up |
