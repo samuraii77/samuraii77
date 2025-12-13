@@ -1,6 +1,6 @@
 ## About Me
 
-I am a [security researcher](https://audits.sherlock.xyz/watson/000000) with a proven track record on all major contest platforms, having achieved 4x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock under 2 accounts (000000 as solo and X77 as a team) and have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Cyfrin](https://x.com/cyfrin), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
+I am a [security researcher](https://audits.sherlock.xyz/watson/000000) with a proven track record on all major contest platforms, having achieved 5x🥇, 7x🥈, 4x🥉 in competitions and hundreds of H/M findings. I am a [Lead Senior Watson](https://docs.sherlock.xyz/audits/watsons/lead-senior-watson-selection-process) at Sherlock under 2 accounts (000000 as solo and X77 as a team) with 1 one of them being ranked #5 on the leaderboard. I have also completed numerous private audits for well-known audit teams in the space, such as [Sherlock](https://x.com/sherlockdefi), [Cyfrin](https://x.com/cyfrin), [Pashov Audit Group](https://x.com/PashovAuditGrp) and [Bail Security](https://x.com/bailsecurity).
 
 For private audits or related work, reach out on:
 
@@ -12,6 +12,7 @@ For private audits or related work, reach out on:
 
 | Platform | Contest                              		  | Category                          			| Ranking 	|
 | - | ----| ------------------------------------ 		  | 	-		|
+| Sherlock  	| [Rezerve Money](https://audits.sherlock.xyz/contests/1134)                					| Treasury backed token										| 🥇		|
 | Sherlock  	| [dHedge](https://app.sherlock.xyz/audits/contests/1070)                					| Liquidity manager, DeFi integrations										| 🥇		|
 | Sherlock  	| [LayerEdge](https://audits.sherlock.xyz/contests/952)                					| Staking										| 🥇		|
 | Sherlock  	| [ZKP2P](https://audits.sherlock.xyz/contests/805)                					| Crypto on-ramp & off-ramp										| 🥇		|
@@ -32,7 +33,7 @@ For private audits or related work, reach out on:
 
 | Provider | Project                              | Category                                         	           | Report   	|
 | -------	 | ------------------------------------ | ----------------------------------				 		   | :--:	  	|
-| Cyfrin | Under NDA                        | Rollup						 | 	|
+| Cyfrin | Aztec                        | Rollup						 | 	|
 | Sherlock | Delpho                        | Stablecoin, HyperLiquid					 | 	|
 | Sherlock | Usual                        | Stablecoin						 | 	|
 | Sherlock | Football Dot Fun                        | Multi-Token AMM Pool						 | 	|
